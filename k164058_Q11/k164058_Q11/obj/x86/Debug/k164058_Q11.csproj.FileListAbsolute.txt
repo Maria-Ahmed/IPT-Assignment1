@@ -1,0 +1,4 @@
+c:\users\fast\documents\visual studio 2010\Projects\k164058_Q11\k164058_Q11\bin\Debug\k164058_Q11.exe
+c:\users\fast\documents\visual studio 2010\Projects\k164058_Q11\k164058_Q11\bin\Debug\k164058_Q11.pdb
+c:\users\fast\documents\visual studio 2010\Projects\k164058_Q11\k164058_Q11\obj\x86\Debug\k164058_Q11.exe
+c:\users\fast\documents\visual studio 2010\Projects\k164058_Q11\k164058_Q11\obj\x86\Debug\k164058_Q11.pdb

@@ -1,0 +1,7 @@
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\bin\Debug\k164058_Q7.exe
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\bin\Debug\k164058_Q7.pdb
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\bin\Debug\ClassLibrary1.dll
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\bin\Debug\ClassLibrary1.pdb
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\obj\x86\Debug\k164058_Q7.csprojResolveAssemblyReference.cache
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\obj\x86\Debug\k164058_Q7.exe
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q7\k164058_Q7\obj\x86\Debug\k164058_Q7.pdb

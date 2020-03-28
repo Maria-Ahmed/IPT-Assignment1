@@ -1,0 +1,4 @@
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.exe
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q3\k164058_Q3\bin\Debug\k164058_Q3.pdb
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q3\k164058_Q3\obj\x86\Debug\k164058_Q3.exe
+C:\Users\FAST\Documents\Visual Studio 2010\Projects\k164058_Q3\k164058_Q3\obj\x86\Debug\k164058_Q3.pdb
